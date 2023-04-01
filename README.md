@@ -1,4 +1,4 @@
-<!--### Howdy, I'm Arian 👋-->
+<!--### Hi there, I'm Arian 👋-->
 
 <!--
 **arian-khanjani/arian-khanjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
